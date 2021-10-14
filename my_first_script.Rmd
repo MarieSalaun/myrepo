@@ -13,9 +13,3 @@ Blablabla les voitures c_est mal ça pollue
 ```{r}
 plot(cars)
 ```
-
-
-
-## Conso voiture 
-
-### conso 
